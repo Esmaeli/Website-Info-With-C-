@@ -1,0 +1,10 @@
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\bin\Debug\WebsiteInfo.exe.config
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\bin\Debug\WebsiteInfo.exe
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\bin\Debug\WebsiteInfo.pdb
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\obj\Debug\WebsiteInfo.csprojAssemblyReference.cache
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\obj\Debug\WebsiteInfo.Form1.resources
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\obj\Debug\WebsiteInfo.Properties.Resources.resources
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\obj\Debug\WebsiteInfo.csproj.GenerateResource.cache
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\obj\Debug\WebsiteInfo.csproj.CoreCompileInputs.cache
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\obj\Debug\WebsiteInfo.exe
+C:\Users\Esmaeli\source\repos\WebsiteInfo\WebsiteInfo\obj\Debug\WebsiteInfo.pdb
